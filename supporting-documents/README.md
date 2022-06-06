@@ -13,4 +13,4 @@ This folder contains supporting guides and tool outlines for use as references f
 
 * [Session 3 Guide](https://github.com/jeffrbul/full-stack-wellness/blob/main/supporting-documents/session-3-guide.md) 
 
-* [Session 4 Guide]()
+* [Session 4 Guide](https://github.com/jeffrbul/full-stack-wellness/blob/main/supporting-documents/session-4-guide.md)
