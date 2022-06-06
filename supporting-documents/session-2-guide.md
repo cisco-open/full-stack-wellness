@@ -1,6 +1,7 @@
 # Session 2: Creating a team where everyone feels safe 
 
-- - - 
+
+
 
 ## Slide 2
 
@@ -10,13 +11,13 @@ Opening Slido Question: Re Safety.. Have you ever had an unsafe environment in y
 
 Welcome Back to the Full Stack Wellness and Inclusion Series 2nd session, we're happy to have you here. Before we dive into our session, we'd like to hear from you on our opening question 
 
-- - - 
+
 
 ## Slide 3 
 
 Thank you.  Our focus for today's topic will be on Designing a Team Where Everyone Feels Safe
  
-- - - 
+
 
 ## Slide 4 
 
@@ -36,7 +37,7 @@ Let's discuss Safety.  Our 1st session focused on the Physiological Needs and 
 
 * Our vision is to continue to make diversity and inclusion a priority, support all cultures and differences, and uphold safe environments. 
 
-- - - 
+ 
 
 ## Slide 5  
 
@@ -50,13 +51,13 @@ We invite you submit questions or comments.  We will then have the exclusive p
 
 Last, but certainly not least, we will share information on Our post-event activities. Next slide 
 
-- - - 
+
 
 ## Slide 6 
 
 Guide Notes: Your organization should bring in a guest to talk about a similar topic of Psychological Safety and incorporate guests and a message that fits your culture, 
 
-- - - 
+ 
 
 ## Slide 18 
 
